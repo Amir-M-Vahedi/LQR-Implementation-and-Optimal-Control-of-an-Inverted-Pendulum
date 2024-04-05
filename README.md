@@ -1,5 +1,6 @@
 # LQR Implementation and Optimal Control of an Inverted Pendulum
-The given livescript (.mlx file) extracts the state-space equations for an inverted pendulum that is shown below. It also represents the simulation results.
+## Overview
+This project focuses on the Linear Quadratic Regulator (LQR) implementation and optimal control of an inverted pendulum system. The project includes a detailed analysis and simulation of the state-space equations governing the dynamics of an inverted pendulum. It provides a comprehensive approach to understanding and controlling this nonlinear system using LQR, a powerful tool in control theory for designing controllers to operate in uncertain environments. The given livescript (.mlx file) extracts the state-space equations for an inverted pendulum that is shown below. It also represents the simulation results.
 <p align="center">
 <img width="302" alt="Screenshot 2022-10-06 235219" src="https://user-images.githubusercontent.com/115154998/194411072-4a66a71b-6964-49f2-b3f9-92892a165619.png">
 </p>
